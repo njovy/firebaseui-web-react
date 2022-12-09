@@ -11,3 +11,13 @@ example/public/bundle.js
 example/public/bundle.js.map
 dist/node_modules
 firebase-debug.log
+!dist/FirebaseAuth.js
+!dist/FirebaseAuth.js.map
+!dist/FirebaseAuth.d.ts
+!dist/StyledFirebaseAuth.d.ts
+!dist/StyledFirebaseAuth.js
+!dist/StyledFirebaseAuth.js.map
+!dist/index.d.ts
+!dist/index.js
+!dist/index.js.map
+
